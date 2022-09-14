@@ -1,0 +1,2 @@
+Paste contents'library' folder in your arduino library folder 
+usually it might be C:\Users\91902\Documents\Arduino\libraries
